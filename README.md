@@ -1,2 +1,2 @@
 # mini-games
-My first web game projects
+My first web game project
